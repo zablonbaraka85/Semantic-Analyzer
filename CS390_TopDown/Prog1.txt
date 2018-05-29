@@ -1,0 +1,8 @@
+read A;
+read B;
+sum (sum);
+sum := A + B;
+write sum;
+write sum / 2;
+yesOrNo := true;
+write !false;
